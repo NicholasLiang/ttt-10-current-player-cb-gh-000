@@ -2,7 +2,9 @@ def turn_count(board)
   count = 0
   board.each do |grid|
     if grid == "O" || grid == "X"
+      count += 1
   end
+  count
 end
   
     it 'counts occupied positions' do
