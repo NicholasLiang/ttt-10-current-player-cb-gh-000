@@ -7,7 +7,10 @@ def turn_count(board)
   count
 end
   
-def 
+def current_player(board)
+  
+  
+end
     it 'counts occupied positions' do
       board = ["O", " ", " ", " ", "X", " ", " ", " ", "X"]
 
