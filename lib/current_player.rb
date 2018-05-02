@@ -7,6 +7,7 @@ def turn_count(board)
   count
 end
   
+def 
     it 'counts occupied positions' do
       board = ["O", " ", " ", " ", "X", " ", " ", " ", "X"]
 
