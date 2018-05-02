@@ -1,5 +1,6 @@
 def turn_count(board)
-  
+  board.each do |grid|
+    
 end
   
     it 'counts occupied positions' do
