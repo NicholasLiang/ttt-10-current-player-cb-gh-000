@@ -13,4 +13,3 @@ def current_player(board)
   end
   "O"
 end
-    it 'counts occupied positions' do
